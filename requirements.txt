@@ -1,0 +1,6 @@
+streamlit
+flask
+mistralai
+typing_extensions==4.15.0
+pydantic
+pydantic-core
